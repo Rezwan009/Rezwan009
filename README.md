@@ -25,10 +25,10 @@ I am a passionate **Software Engineer** with experience building modern **enterp
 
 I enjoy transforming complex ideas into **efficient, maintainable, and user-friendly solutions**.
 
-- 🔹 Experienced in backend & frontend development  
-- 🔹 Strong background in Laravel, Java Spring Boot, and modern JavaScript frameworks  
-- 🔹 Skilled in database design, REST APIs, and scalable architectures  
-- 🔹 Passionate about clean architecture, performance optimization & system design
+  🔹 Experienced in backend & frontend development  
+  🔹 Strong background in Laravel, Java Spring Boot, and modern JavaScript frameworks  
+  🔹 Skilled in database design, REST APIs, and scalable architectures  
+  🔹 Passionate about clean architecture, performance optimization & system design
 
 
 ## 🚀 What I’m Currently Working On
