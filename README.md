@@ -33,24 +33,24 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 
 ## 🔭 What I’m Currently Working On
 
-🔹 Building **scalable web applications**
-🔹 Improving **system architecture and performance**
-🔹 Learning **advanced Next.js and modern frontend patterns**
-🔹 Exploring **microservices architecture & cloud deployment**
+  🔹 Building **scalable web applications**
+  🔹 Improving **system architecture and performance**
+  🔹 Learning **advanced Next.js and modern frontend patterns**
+  🔹 Exploring **microservices architecture & cloud deployment**
 
 ## 🌱 I’m Currently Learning
 
- Advanced **Next.js** and modern React patterns  
-🔹 **Microservices architecture** and scalable backend systems  
-🔹 **Cloud deployment & DevOps practices**  
-🔹 Improving **system design and performance optimization**
+  🔹 Advanced **Next.js** and modern React patterns  
+  🔹 **Microservices architecture** and scalable backend systems  
+  🔹 **Cloud deployment & DevOps practices**  
+  🔹 Improving **system design and performance optimization**
 
 ## 🤝 I’m Looking to Collaborate On
 
-🔹 Open-source Laravel or Spring Boot projects
-🔹 Full-stack applications using Laravel, React, Vue.js, or Next.js
-🔹 SaaS / ERP / MIS systems
-🔹 Scalable backend systems and API development
+  🔹 Open-source Laravel or Spring Boot projects
+  🔹 Full-stack applications using Laravel, React, Vue.js, or Next.js
+  🔹 SaaS / ERP / MIS systems
+  🔹 Scalable backend systems and API development
 
 
 # 🛠 Tech Stack
