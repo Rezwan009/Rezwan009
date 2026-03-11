@@ -30,7 +30,6 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 🔹 Skilled in **database design, REST APIs, and scalable architectures**
 🔹 Passionate about **clean architecture, performance optimization & system design**
 
----
 
 ## 🚀 What I’m Currently Working On
 
@@ -73,7 +72,7 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
 ![Keycloak](https://img.shields.io/badge/Keycloak-blue?style=for-the-badge)
 
-
+<!--
 # 📊 GitHub Stats
 
 <p align="center">
@@ -92,7 +91,7 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezwan009&theme=tokyonight" />
 
 </p>
-
+-->
 
 # 🌐 Connect With Me
 
@@ -104,7 +103,6 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://devrezo.netlify.app)
 
----
 
 ⭐ Feel free to explore my repositories and connect with me!
 
