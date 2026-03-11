@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Rezwan009/Rezwan009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey there, folks! I'm Rezwan 👋</h1>
+<h1 align="center">Hey there, folks! I'm Rezwan Ahmed 👋</h1>
 
 <p align="center">
 💻 Passionate Software Engineer | Full-Stack Web Developer | Problem Solver
@@ -28,7 +26,7 @@ I am a passionate **Software Engineer** with experience building modern web appl
 I enjoy transforming complex ideas into **scalable, efficient, and user-friendly solutions**.
 
 🔹 Experienced in **backend and frontend development**  
-🔹 Love working with **Laravel, Next.js, and modern JavaScript frameworks**  
+🔹 Love working with **Laravel, ReactJs, Vue.js, Next.js, and modern JavaScript frameworks**  
 🔹 Strong interest in **system design, clean architecture, and performance optimization**  
 🔹 Always learning new technologies and contributing to **open-source projects**
 
@@ -57,9 +55,9 @@ I enjoy transforming complex ideas into **scalable, efficient, and user-friendly
 
 ### 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Rezwan009)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](rezo009)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrezo9@gmail.com)
 
 ---
 
