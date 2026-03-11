@@ -12,14 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey there, folks! I'm Rezwan Ahmed 👋</h1>
-
-<p align="center">
-💻 Passionate Software Engineer | Full-Stack Web Developer | Problem Solver
-</p>
-
----
-
 <h1 align="center">Hey there, folks! 👋 I'm Rezwan Ahmed</h1>
 
 <p align="center">
