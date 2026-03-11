@@ -38,6 +38,13 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 * Learning **advanced Next.js and modern frontend patterns**
 * Exploring **microservices architecture & cloud deployment**
 
+## 🤝 I’m Looking to Collaborate On
+
+- Open-source Laravel or Spring Boot projects
+- Full-stack applications using Laravel, React, Vue.js, or Next.js
+- SaaS / ERP / MIS systems
+- Scalable backend systems and API development
+
 
 # 🛠 Tech Stack
 
