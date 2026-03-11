@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there, folks! 👋 I'm Rezwan Ahmed</h1>
 <p align="center"> 💻 Passionate Software Engineer | Full-Stack Web Developer | Problem Solver </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Full+Stack+Software+Engineer;Laravel+%7C+Spring+Boot+Developer;Vue.js+%7C+React+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Laravel+%7C+Spring+Boot+Developer;Vue.js+%7C+React+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
 </p>
 
 
@@ -103,7 +103,7 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://devrezo.netlify.app)
 
-
+---
 ⭐ Feel free to explore my repositories and connect with me!
 
 
