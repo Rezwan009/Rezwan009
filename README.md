@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Full+Stack+Software+Engineer;Laravel+%7C+Spring+Boot+Developer;Vue.js+%7C+React+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -40,7 +39,6 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 * Learning **advanced Next.js and modern frontend patterns**
 * Exploring **microservices architecture & cloud deployment**
 
----
 
 # 🛠 Tech Stack
 
@@ -51,7 +49,6 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
 
----
 
 ### Frontend
 
@@ -62,14 +59,12 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
 
----
 
 ### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
 
----
 
 ### Tools & DevOps
 
@@ -78,7 +73,6 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
 ![Keycloak](https://img.shields.io/badge/Keycloak-blue?style=for-the-badge)
 
----
 
 # 📊 GitHub Stats
 
@@ -90,7 +84,6 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 
 </p>
 
----
 
 # 🔥 GitHub Streak
 
@@ -100,7 +93,6 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 
 </p>
 
----
 
 # 🌐 Connect With Me
 
