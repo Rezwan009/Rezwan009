@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, folks! 👋 I'm Rezwan Ahmed</h1>
 <p align="center">💻 Passionate Software Engineer | Full-Stack Web Developer | Problem Solver</p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Laravel+%7C+Spring+Boot+Developer;Vue.js+%7C+React+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Laravel+%7C+NodeJS+Developer;Vue.js+%7C+React+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
 </p>
 
 ## 👨‍💻 About Me
