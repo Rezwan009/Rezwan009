@@ -28,7 +28,7 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ## 🤝 I’m Looking to Collaborate On
 🔹 Open-source Laravel or MERN Stack Projects  
 🔹 Full-stack applications using Laravel, Spring Boot, NodeJS, React, Vue.js, or Next.js  
-🔹 SaaS / ERP / MIS systems / E-commerce 
+🔹 SaaS / ERP / MIS systems / E-commerce
 🔹 Scalable backend systems and API development  
 
 # 🛠 Tech Stack
