@@ -9,7 +9,7 @@ I am a passionate **Software Engineer** with experience building modern **enterp
 I enjoy transforming complex ideas into **efficient, maintainable, and user-friendly solutions**.
 
 🔹 Experienced in backend & frontend development  
-🔹 Strong background in Laravel, Java Spring Boot, and modern JavaScript frameworks  
+🔹 Strong background in Laravel, NodeJS, Spring Boot, and modern JavaScript frameworks  
 🔹 Skilled in database design, REST APIs, and scalable architectures  
 🔹 Passionate about clean architecture, performance optimization & system design  
 
@@ -38,6 +38,7 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 
 ### Frontend
@@ -51,6 +52,7 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
