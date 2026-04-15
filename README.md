@@ -16,7 +16,7 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ## 🔭 What I’m Currently Working On
 🔹 Building **scalable web applications**  
 🔹 Improving **system architecture and performance**  
-🔹 Learning **advanced Next.js and modern frontend patterns**  
+🔹 Learning **advanced MERN Stack and modern frontend patterns**  
 🔹 Exploring **microservices architecture & cloud deployment**  
 
 ## 🌱 I’m Currently Learning
@@ -27,8 +27,8 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 
 ## 🤝 I’m Looking to Collaborate On
 🔹 Open-source Laravel or Spring Boot projects  
-🔹 Full-stack applications using Laravel, React, Vue.js, or Next.js  
-🔹 SaaS / ERP / MIS systems  
+🔹 Full-stack applications using Laravel, Spring Boot, NodeJS, React, Vue.js, or Next.js  
+🔹 SaaS / ERP / MIS systems / E-commerce 
 🔹 Scalable backend systems and API development  
 
 # 🛠 Tech Stack
@@ -37,11 +37,12 @@ I enjoy transforming complex ideas into **efficient, maintainable, and user-frie
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 
 ### Frontend
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
